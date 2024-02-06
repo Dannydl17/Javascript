@@ -61,13 +61,13 @@ console.log(3 < 2)
 
 console.log("Aardvark" < "Zoroaster")
 
-let number = "1";
-let numberOne = 1;
-let numberTwo ;
-let myArray = null;
+// let number = "1";
+// let numberOne = 1;
+// let numberTwo ;
+// let myArray = null;
 
-let numberOne = Symbol();
-let numberTwo = Symbol();
+// let numberOne = Symbol();
+// let numberTwo = Symbol();
 
 
 console.log(typeof number)
